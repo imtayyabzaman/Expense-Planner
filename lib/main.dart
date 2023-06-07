@@ -24,7 +24,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Expense Tracker',
+      title: 'Expense Tracker', 
+      
       theme: ThemeData(
         primarySwatch: Colors.pink,
         accentColor: Colors.amber,
